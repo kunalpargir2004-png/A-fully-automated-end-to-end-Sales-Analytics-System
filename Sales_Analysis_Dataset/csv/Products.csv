@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,UnitPrice,Supplier
+1001,Cotton T-Shirt,Apparel,99.32,Owens Inc
+1010,Denim Jeans,Apparel,98.5,Gilbert-Moreno
+1014,Formal Shirt,Apparel,226.96,"Velez, Washington and Bailey"
+1030,Casual Shirt,Apparel,159.7,Alvarez Group
+1031,Leather Jacket,Apparel,169.11,Hurley-Brown
+1038,Hoodie Sweatshirt,Apparel,410.2,Anderson LLC
+1039,Track Pants,Apparel,159.99,Brown PLC
+1040,Chinos Pants,Apparel,490.48,"Brock, Garcia and Hernandez"
+1044,Saree,Apparel,198.89,"Chambers, Schultz and Jones"
+1045,Kurti,Apparel,75.49,Hernandez and Sons
+1058,Blazer,Apparel,149.99,George-Morales
+1062,Skirt,Apparel,416.54,Garcia-Clark
+1066,Shorts,Apparel,306.88,Green Ltd
+1067,Sports Jersey,Apparel,35.71,Rivera-Cardenas
+1071,Winter Coat,Apparel,103.89,"Spence, Howard and Patel"
+1078,Ethnic Dress,Apparel,40.01,"Owens, Gordon and Graves"
+1079,Cargo Pants,Apparel,230.9,"Edwards, Williams and Blackwell"
+1091,Tank Top,Apparel,250.02,Todd Group
+1092,Sweater,Apparel,267,Lee-Luna
+1093,Rain Jacket,Apparel,257.88,Scott Group
+1094,Palazzo Pants,Apparel,232.36,"Brennan, Finley and Hunt"
+1096,Leggings,Apparel,308.39,Sheppard-Sullivan
+1098,Salwar Kameez,Apparel,270.37,Bates-Schmidt
+1099,Anarkali Suit,Apparel,183.29,"Roberts, Walker and Jones"
+1100,Gown Dress,Apparel,331.2,Johnson-Luna
+1004,Face Cream,Beauty,75.32,Williams-Stephens
+1005,Moisturizer,Beauty,332.12,Gibson Inc
+1006,Face Wash,Beauty,111.79,Johnson and Sons
+1007,Cleanser,Beauty,242.95,David Inc
+1009,Toner,Beauty,50.94,Gibson LLC
+1018,Serum,Beauty,352.12,Ellis and Sons
+1020,Sunscreen,Beauty,344.34,Wolf-Harris
+1022,Lipstick,Beauty,328.56,Butler-Smith
+1024,Lip Balm,Beauty,250.77,Riley LLC
+1025,Lip Gloss,Beauty,204.52,Martinez-Graham
+1027,Foundation,Beauty,32.61,"Faulkner, Wilson and Richards"
+1029,Concealer,Beauty,112.53,"Jones, Mueller and Medina"
+1032,Compact Powder,Beauty,366.37,Cook-Fox
+1041,Loose Powder,Beauty,290.96,Williams Group
+1046,Blush,Beauty,259.04,Reid Inc
+1047,Highlighter,Beauty,46.96,"Pittman, Mcdonald and Fox"
+1051,Bronzer,Beauty,64.47,Scott-Roberson
+1057,Eyeshadow Palette,Beauty,445.58,Nguyen Inc
+1063,Eyeliner,Beauty,313.13,Dixon-Murphy
+1065,Mascara,Beauty,424.18,Gibbs and Sons
+1070,Eyebrow Pencil,Beauty,149.4,Bradshaw-Stafford
+1082,Makeup Remover,Beauty,271.84,"Evans, Odonnell and Rogers"
+1089,Micellar Water,Beauty,78.08,"Wells, Fisher and Clark"
+1097,Body Lotion,Beauty,250.75,"Chambers, Moore and Weaver"
+1003,Smartphone,Electronics,37.75,"Williams, Shah and Mitchell"
+1021,Laptop,Electronics,389.41,Snyder-Stephens
+1023,Tablet,Electronics,239.03,Carter Group
+1026,Smartwatch,Electronics,372.11,Taylor-Lewis
+1037,Bluetooth Headphones,Electronics,70.42,Kramer LLC
+1043,Wireless Earbuds,Electronics,377.27,Harding-Miller
+1049,LED TV,Electronics,168.28,Hanson LLC
+1054,Smart Speaker,Electronics,27.44,Campbell Ltd
+1059,Power Bank,Electronics,481.42,Landry Inc
+1069,Digital Camera,Electronics,448.29,"Anderson, Williams and Reese"
+1073,Keyboard,Electronics,356.32,Hunt-Thompson
+1080,Mouse,Electronics,62.14,Stokes-Mcdowell
+1084,Printer,Electronics,381.99,Schmidt and Sons
+1002,Sofa Set,Furniture,290.67,Romero and Sons
+1008,Sectional Sofa,Furniture,81.24,Mays-Griffith
+1012,Dining Table,Furniture,89.12,Anderson PLC
+1017,Dining Chair,Furniture,25.7,"Browning, Cain and Smith"
+1035,Office Chair,Furniture,449.01,Hernandez-Clark
+1042,Recliner Chair,Furniture,60.66,"Lee, Lamb and Petty"
+1048,Coffee Table,Furniture,217.37,"Dixon, Bell and Smith"
+1050,Side Table,Furniture,286.77,Sullivan-Williams
+1052,Wardrobe,Furniture,161.47,"Smith, Peterson and Macdonald"
+1056,Bookshelf,Furniture,210.69,Brown PLC
+1061,TV Unit,Furniture,434.18,Ball-Russell
+1064,Bed Frame,Furniture,411.31,"Harrison, Carroll and Maldonado"
+1068,Mattress,Furniture,322.34,Parker-Butler
+1074,Study Table,Furniture,347.87,Hall Inc
+1075,Dressing Table,Furniture,385.86,Chan-Acevedo
+1076,Shoe Rack,Furniture,290.18,Guerra Ltd
+1077,Kitchen Cabinet,Furniture,428.55,Jimenez-Marks
+1081,Chest of Drawers,Furniture,125.7,"Esparza, Buck and Taylor"
+1088,Bar Stool,Furniture,388.62,"Melton, Rodriguez and Wallace"
+1090,Bean Bag,Furniture,142.49,Gonzalez-Buchanan
+1095,Rocking Chair,Furniture,377.45,Blake Group
+1011,Toy Car,Toys,443.16,Estrada LLC
+1013,Doll,Toys,82.85,"Johnson, Young and Davis"
+1015,Action Figure,Toys,460.12,Allen-Hendricks
+1016,Building Blocks,Toys,287.68,"Mcmahon, Munoz and Lopez"
+1019,Puzzle Game,Toys,303.17,"Hubbard, Peterson and Stafford"
+1028,Board Game,Toys,174.79,"Murray, Burns and Martinez"
+1033,Remote Control Car,Toys,433.44,Foster-Olson
+1034,Stuffed Teddy Bear,Toys,196.45,Harrison Group
+1036,Toy Train Set,Toys,226.7,Curry Group
+1053,Kids Bicycle,Toys,250.29,"Valdez, Miller and Carlson"
+1055,Play Tent,Toys,286.47,Schmidt LLC
+1060,Toy Kitchen Set,Toys,66.71,"Meyer, Gutierrez and Howard"
+1072,Drone Toy,Toys,334.9,"Blevins, Clark and Vincent"
+1083,Rubber Ball,Toys,199.18,Wilson-Garcia
+1085,Lego Set,Toys,294.11,Gomez-Ponce
+1086,Yo-Yo,Toys,185.36,Larson PLC
+1087,Toy Piano,Toys,390.52,"Green, Bartlett and White"
